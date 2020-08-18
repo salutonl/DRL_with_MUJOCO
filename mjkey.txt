@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 73946, type 6.
+
+Issued to Hui Wang <hxw886@student.bham.ac.uk>.
+
+Expires July 24, 2021.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_4075d810bfc1df1_ddce4a1cevb95f0d192v6c93046
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+3c7afca58c4f1946cbe05b3fe7e459a1cb148f02eb39198f14a9327f822c6518
+ab928cdc8817f1e4638d5bcc082afcb7bbb17eca04ba3a2202e7f58d669d9ddc
+74d68554e3d6217d920583bacd0d2d4d2bfdffcee0f573903bacf11e4fc573bf
+b9139687e8dfbf282a4345fa762784bceb001d15830c37748e75d9b1c8659e4e
+96f220b468cc1c8e619593a88d68dd02e26f631cdb4f5a6895388b7e535e3b43
+c83c8397c1742596fdf08d5689fec7659c3eef31620052fe55211a8ac27d02ff
+7cc79cd1e4ccceedf439a8e54a51b9cce9983eef8f5927e6de57d1b37ebbc3cd
+1baec7d48908ead3e6adc60ae6cc4f94f676f5cbcc18f482e802b0e2586cb454
